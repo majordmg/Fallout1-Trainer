@@ -6,6 +6,10 @@
 
 This repository contains the source code for a (mostly) complete cheat trainer for Fallout 1 (GOG).
 
+This trainer attaches to a process called **falloutw.exe**. The fallout process must have this name because of the static pointers that were used to create this trainer.
+
+If your game's process is not named **falloutw.exe**, you must either rename the process before running the standalone trainer, or run from Cheat Engine (option 2 below). 
+
 ## Setup
 
 There are two options, depending on your system architecture.
