@@ -32,7 +32,7 @@ Note: the Cheat Table contains memory addresses for a few more critical values (
 
 Simply edit any field, e.g. Carry Weight, and then open and close the in-game character menu. Your character's attributes should update accordingly. 
 
-Note: you can use this trainer to push in-game values beyond their intended purposes. From initial experiments I have found that this does make a meaningful difference.
+*Note: you can use this trainer to push in-game values beyond their intended purposes. From initial experiments I have found that this does make a meaningful difference.*
 
 Example: your HP is calculated based on your STR. The maximum "natural" STR, without cheats, is 10. That results in a max "natural" HP of 47. This is the highest value of HP accessible to a non-cheating player. Using this trainer, you can change your STR to 999. That results in an HP of 1000+. 
 
